@@ -1,0 +1,124 @@
+
+@font-face {
+      font-family: 'awebfontsicons';
+      src: url('awebfonts.eot?43193098');
+      src: url('awebfonts.eot?43193098#iefix') format('embedded-opentype'),
+           url('awebfonts.woff?43193098') format('woff'),
+           url('awebfonts.ttf?43193098') format('truetype'),
+           url('awebfonts.svg?43193098#fontello') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }	
+	
+[class*="awebfont-"] {
+	 font-family: 'awebfontsicons';
+	
+	}	
+	
+	i.aweblogo:before {
+	 font-family: 'awebfontsicons';
+	  content: "\e824";
+	  font-style: normal;
+	 
+	 
+	 }
+	
+
+	
+	a.toplevel_page_aweb-editor-option .dashicons-before:before {
+	 font-family: 'awebfontsicons';
+	  content: "\e823";
+	 
+	 
+	 }
+	 
+	 a.toplevel_page_aweb-telephone-option .dashicons-before:before {
+	 font-family: 'awebfontsicons';
+	  content: "\e808";
+	 
+	 
+	 }
+	 	
+	
+	
+.awebfont-sendcall:before {
+	content:"\e803";
+	}
+.awebfont-camera:before {
+	content:"\e800";
+	}
+.awebfont-endcall:before {
+	content:"\e80b";
+	}			
+.awebfont-th:before {
+	content:"\e80c";
+	}
+.awebfont-awebtelehone:before {
+	content:"\e808";
+	}
+.awebfont-send:before {
+	content:"\e80a";
+	}
+
+.awebfont-video:before {
+	content:"\e810";
+	}
+	
+.awebfont-audio:before {
+	content:"\e809";
+	}	
+	
+	
+/*//// Editor  */
+.awebfont-aweb-editor-bold:before{
+	content: "\e813";
+	} 	 
+.awebfont-aweb-editor-italic:before{
+	content: "\e814";
+	}
+	
+.awebfont-aweb-editor-underline:before{
+	content: "\e812";
+	}
+.awebfont-aweb-editor-linethrough:before{
+	content: "\e811";
+	}
+.awebfont-aweb-editor-alignleft:before{
+	content: "\e817";
+	}
+.awebfont-aweb-editor-aligncenter:before{
+	content: "\e818";
+	}				
+.awebfont-aweb-editor-alignjustify:before{
+	content: "\e81a";
+	}
+.awebfont-aweb-editor-alignright:before{
+	content: "\e819";
+	}		 
+.awebfont-aweb-editor-quto:before{
+	content: "\e81c";
+	}
+.awebfont-aweb-editor-code:before{
+	content: "\e81e";
+	}
+
+.doubledclickers:after{
+	font-family: 'awebfontsicons';
+	content: "\e820";
+	  margin-right: 10px;
+	}
+	
+			 
+blockquote:before { 
+font-family: 'awebfontsicons';
+  content: "\e81c";
+} 	
+
+blockquote:after { 
+font-family: 'awebfontsicons';
+  content: "\e81d";
+}  
+	 
+blockquote p:empty {
+    display:none !important;
+}	
