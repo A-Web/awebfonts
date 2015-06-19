@@ -101,6 +101,13 @@
 .awebfont-aweb-editor-code:before{
 	content: "\e81e";
 	}
+.awebfont-aweb-editor-image:before {
+  content: "\e81b";
+}
+
+.awebfont-aweb-editor-image:before {
+  content: "\e82e";
+}
 
 .doubledclickers:after{
 	font-family: 'awebfontsicons';
